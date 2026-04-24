@@ -9,3 +9,8 @@
 # kimhankyeom
 
 git switch -c feature/SEOMOKWON
+
+
+git add .
+git commit -m "feat: SEOMOKWON"
+git push origin feature/SEOMOKWON
