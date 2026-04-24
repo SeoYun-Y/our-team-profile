@@ -6,7 +6,7 @@
 
 안녕하세요 염서윤입니다
 
-# 김한겸입니다
+# my name is kim
 
 git switch -c feature/SEOMOKWON
 
