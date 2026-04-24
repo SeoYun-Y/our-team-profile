@@ -8,4 +8,4 @@
 
 # kimhankyeom
 
-push main 
+git switch -c feature/SEOMOKWON
