@@ -17,3 +17,6 @@ git push origin feature/SEOMOKWON
 
 git clone https://github.com/SeoYun-Y/our-team-profile.git
 cd our-team-profile
+
+
+git ls-remote test 
