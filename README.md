@@ -20,3 +20,7 @@ cd our-team-profile
 
 
 git ls-remote test 
+
+
+git clone https://github.com/SeoYun-Y/our-team-project-name.git
+cd our-team-project-name
